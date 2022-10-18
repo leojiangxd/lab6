@@ -1,0 +1,3 @@
+C:/Users/Leo/Desktop/COP3504C/lab6copy/cmake-build-debug/CMakeFiles/lab6.dir
+C:/Users/Leo/Desktop/COP3504C/lab6copy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Leo/Desktop/COP3504C/lab6copy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
